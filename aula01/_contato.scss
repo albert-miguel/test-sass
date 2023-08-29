@@ -1,0 +1,4 @@
+.contato{
+   @include flexCenter(row, orange);
+   @extend header
+}

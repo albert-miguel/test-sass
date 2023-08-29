@@ -1,0 +1,12 @@
+@import './globals';
+
+body {
+
+  font-family: $myFont;
+  font-size: $myFontSize;
+  color: $myColor;
+}
+
+#container {
+  width: $myWidth;
+}
